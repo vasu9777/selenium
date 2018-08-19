@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="12" passed="12">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="997" started-at="2018-07-25T15:53:58Z" finished-at="2018-07-25T15:53:59Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="997" started-at="2018-07-25T15:53:58Z" finished-at="2018-07-25T15:53:59Z">
+      <class name="com.selenium.maps.MapWithDataProvider">
+        <test-method status="PASS" signature="Test(java.util.Map)[pri:0, instance:com.selenium.maps.MapWithDataProvider@50d0686]" name="Test" duration-ms="16" started-at="2018-07-25T15:53:58Z" data-provider="testdata" finished-at="2018-07-25T15:53:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{UserName=admin, DOB=01-Jan-1993, PassWord=admin}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test -->
+        <test-method status="PASS" signature="Test(java.util.Map)[pri:0, instance:com.selenium.maps.MapWithDataProvider@50d0686]" name="Test" duration-ms="0" started-at="2018-07-25T15:53:58Z" data-provider="testdata" finished-at="2018-07-25T15:53:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{UserName=admin, DOB=03-Mar-1993, PassWord=mahesh}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test -->
+        <test-method status="PASS" signature="Test(java.util.Map)[pri:0, instance:com.selenium.maps.MapWithDataProvider@50d0686]" name="Test" duration-ms="0" started-at="2018-07-25T15:53:58Z" data-provider="testdata" finished-at="2018-07-25T15:53:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{UserName=mahesh, DOB=04-Apr-1993, PassWord=mahesh}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test -->
+        <test-method status="PASS" signature="Test(java.util.Map)[pri:0, instance:com.selenium.maps.MapWithDataProvider@50d0686]" name="Test" duration-ms="0" started-at="2018-07-25T15:53:58Z" data-provider="testdata" finished-at="2018-07-25T15:53:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{UserName=mahesh, DOB=02-Feb-1993, PassWord=admin}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test -->
+        <test-method status="PASS" signature="Test(java.util.Map)[pri:0, instance:com.selenium.maps.MapWithDataProvider@50d0686]" name="Test" duration-ms="16" started-at="2018-07-25T15:53:58Z" data-provider="testdata" finished-at="2018-07-25T15:53:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{UserName=sony, DOB=08-Aug-1993, PassWord=sony}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test -->
+        <test-method status="PASS" signature="Test(java.util.Map)[pri:0, instance:com.selenium.maps.MapWithDataProvider@50d0686]" name="Test" duration-ms="0" started-at="2018-07-25T15:53:58Z" data-provider="testdata" finished-at="2018-07-25T15:53:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{UserName=vasu, DOB=05-May-1993, PassWord=vasu}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test -->
+        <test-method status="PASS" signature="Test(java.util.Map)[pri:0, instance:com.selenium.maps.MapWithDataProvider@50d0686]" name="Test" duration-ms="0" started-at="2018-07-25T15:53:58Z" data-provider="testdata" finished-at="2018-07-25T15:53:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{UserName=sony, DOB=06-Jun-1993, PassWord=vasu}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test -->
+        <test-method status="PASS" signature="Test(java.util.Map)[pri:0, instance:com.selenium.maps.MapWithDataProvider@50d0686]" name="Test" duration-ms="0" started-at="2018-07-25T15:53:58Z" data-provider="testdata" finished-at="2018-07-25T15:53:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{UserName=vasu, DOB=07-Jul-1993, PassWord=sony}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test -->
+        <test-method status="PASS" signature="Test(java.util.Map)[pri:0, instance:com.selenium.maps.MapWithDataProvider@50d0686]" name="Test" duration-ms="16" started-at="2018-07-25T15:53:58Z" data-provider="testdata" finished-at="2018-07-25T15:53:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{UserName=sowji, DOB=09-Sep-1993, PassWord=sowji}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test -->
+        <test-method status="PASS" signature="Test(java.util.Map)[pri:0, instance:com.selenium.maps.MapWithDataProvider@50d0686]" name="Test" duration-ms="0" started-at="2018-07-25T15:53:58Z" data-provider="testdata" finished-at="2018-07-25T15:53:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{UserName=mouni, DOB=10-Oct-1993, PassWord=mouni}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test -->
+        <test-method status="PASS" signature="Test(java.util.Map)[pri:0, instance:com.selenium.maps.MapWithDataProvider@50d0686]" name="Test" duration-ms="0" started-at="2018-07-25T15:53:59Z" data-provider="testdata" finished-at="2018-07-25T15:53:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{UserName=honey, DOB=11-Nov-1993, PassWord=honey}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test -->
+        <test-method status="PASS" signature="Test(java.util.Map)[pri:0, instance:com.selenium.maps.MapWithDataProvider@50d0686]" name="Test" duration-ms="16" started-at="2018-07-25T15:53:59Z" data-provider="testdata" finished-at="2018-07-25T15:53:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{UserName=haritha, DOB=12-Dec-1993, PassWord=haritha}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test -->
+      </class> <!-- com.selenium.maps.MapWithDataProvider -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
