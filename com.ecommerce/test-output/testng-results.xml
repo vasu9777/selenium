@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+    <line>
+      <![CDATA[Test start runningCustomerRegistration]]>
+    </line>
+    <line>
+      <![CDATA[Test is SuccessCustomerRegistration]]>
+    </line>
+    <line>
+      <![CDATA[<a href=' D:\Library\Live_Project\com.ecommerce\src\main\java\com\automation\ecommerce\passedScreens\CustomerRegistration17_57_2018_03_57_30.png '><img src='D:\Library\Live_Project\com.ecommerce\src\main\java\com\automation\ecommerce\passedScreens\CustomerRegistration17_57_2018_03_57_30.png'height='100' width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[Test start runningcustomerSign]]>
+    </line>
+    <line>
+      <![CDATA[Test is SuccesscustomerSign]]>
+    </line>
+    <line>
+      <![CDATA[<a href=' D:\Library\Live_Project\com.ecommerce\src\main\java\com\automation\ecommerce\passedScreens\customerSign17_57_2018_03_57_35.png '><img src='D:\Library\Live_Project\com.ecommerce\src\main\java\com\automation\ecommerce\passedScreens\customerSign17_57_2018_03_57_35.png'height='100' width='100'/></a>]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="140650" started-at="2018-08-17T10:25:15Z" finished-at="2018-08-17T10:27:36Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="140650" started-at="2018-08-17T10:25:15Z" finished-at="2018-08-17T10:27:36Z">
+      <class name="com.automation.ecommerce.homepage.TC001_CustomerRegistration">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.automation.ecommerce.homepage.TC001_CustomerRegistration@14ec4505]" name="setUp" is-config="true" duration-ms="34112" started-at="2018-08-17T10:25:15Z" finished-at="2018-08-17T10:25:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="startReport(java.lang.reflect.Method)[pri:0, instance:com.automation.ecommerce.homepage.TC001_CustomerRegistration@14ec4505]" name="startReport" is-config="true" duration-ms="7" started-at="2018-08-17T10:25:49Z" finished-at="2018-08-17T10:25:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.automation.ecommerce.homepage.TC001_CustomerRegistration.CustomerRegistration() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startReport -->
+        <test-method status="PASS" signature="CustomerRegistration()[pri:0, instance:com.automation.ecommerce.homepage.TC001_CustomerRegistration@14ec4505]" name="CustomerRegistration" duration-ms="101318" started-at="2018-08-17T10:25:49Z" finished-at="2018-08-17T10:27:30Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Test start runningCustomerRegistration]]>
+            </line>
+            <line>
+              <![CDATA[Test is SuccessCustomerRegistration]]>
+            </line>
+            <line>
+              <![CDATA[<a href=' D:\Library\Live_Project\com.ecommerce\src\main\java\com\automation\ecommerce\passedScreens\CustomerRegistration17_57_2018_03_57_30.png '><img src='D:\Library\Live_Project\com.ecommerce\src\main\java\com\automation\ecommerce\passedScreens\CustomerRegistration17_57_2018_03_57_30.png'height='100' width='100'/></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- CustomerRegistration -->
+        <test-method status="PASS" signature="endReport(org.testng.ITestResult)[pri:0, instance:com.automation.ecommerce.homepage.TC001_CustomerRegistration@14ec4505]" name="endReport" is-config="true" duration-ms="0" started-at="2018-08-17T10:27:31Z" finished-at="2018-08-17T10:27:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=CustomerRegistration status=SUCCESS method=TC001_CustomerRegistration.CustomerRegistration()[pri:0, instance:com.automation.ecommerce.homepage.TC001_CustomerRegistration@14ec4505] output=Test start runningCustomerRegistration]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+        <test-method status="PASS" signature="customerSign()[pri:0, instance:com.automation.ecommerce.homepage.TC001_CustomerRegistration@14ec4505]" name="customerSign" duration-ms="3771" started-at="2018-08-17T10:27:31Z" finished-at="2018-08-17T10:27:35Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Test start runningcustomerSign]]>
+            </line>
+            <line>
+              <![CDATA[Test is SuccesscustomerSign]]>
+            </line>
+            <line>
+              <![CDATA[<a href=' D:\Library\Live_Project\com.ecommerce\src\main\java\com\automation\ecommerce\passedScreens\customerSign17_57_2018_03_57_35.png '><img src='D:\Library\Live_Project\com.ecommerce\src\main\java\com\automation\ecommerce\passedScreens\customerSign17_57_2018_03_57_35.png'height='100' width='100'/></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- customerSign -->
+        <test-method status="PASS" signature="startReport(java.lang.reflect.Method)[pri:0, instance:com.automation.ecommerce.homepage.TC001_CustomerRegistration@14ec4505]" name="startReport" is-config="true" duration-ms="0" started-at="2018-08-17T10:27:31Z" finished-at="2018-08-17T10:27:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.automation.ecommerce.homepage.TC001_CustomerRegistration.customerSign() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startReport -->
+        <test-method status="PASS" signature="endReport(org.testng.ITestResult)[pri:0, instance:com.automation.ecommerce.homepage.TC001_CustomerRegistration@14ec4505]" name="endReport" is-config="true" duration-ms="1" started-at="2018-08-17T10:27:35Z" finished-at="2018-08-17T10:27:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=customerSign status=SUCCESS method=TC001_CustomerRegistration.customerSign()[pri:0, instance:com.automation.ecommerce.homepage.TC001_CustomerRegistration@14ec4505] output=Test start runningcustomerSign]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:com.automation.ecommerce.homepage.TC001_CustomerRegistration@14ec4505]" name="endTest" is-config="true" duration-ms="671" started-at="2018-08-17T10:27:35Z" finished-at="2018-08-17T10:27:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+        <test-method status="PASS" signature="killProcess()[pri:0, instance:com.automation.ecommerce.homepage.TC001_CustomerRegistration@14ec4505]" name="killProcess" is-config="true" duration-ms="0" started-at="2018-08-17T10:27:36Z" finished-at="2018-08-17T10:27:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killProcess -->
+      </class> <!-- com.automation.ecommerce.homepage.TC001_CustomerRegistration -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
